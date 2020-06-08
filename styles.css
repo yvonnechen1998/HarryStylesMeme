@@ -5,15 +5,34 @@ body {
 
 h1 { 
     text-align: center;
-    padding-top: 7%; 
+    padding-top: 3%; 
     font-family: 'Poppins', sans-serif;
     color: #e36387;
     font-size: 4rem; 
     letter-spacing: .25em;
 }
 
+
+/* audio part  */
+
+#audio-section { 
+   
+    text-align: center;
+    margin-top: 7%; 
+}
+
+.golden-image { 
+    margin: 10px; 
+}
+
+
+
+
+
+
+
 .col-md-3 { 
-padding-bottom: 20%;
+padding-bottom: 10%;
 }
 
 .quoteButton { 
@@ -42,6 +61,47 @@ padding-bottom: 20%;
 }
 
 .fine-line-art { 
-   
+   width: 100%;
 }
 
+
+
+/* carousel */
+
+.image-container { 
+    background-color: #f7b9b9;
+   
+
+}
+#testimonials { 
+    /* padding: 7% 15%;  */
+    text-align: center;
+     /* background-color: #ddf3f5;  */
+     /* padding: 7% 15%;  */
+     border-radius: 25px;
+    color: white; 
+    width: 75%; 
+    
+    
+    margin: auto; 
+    
+    
+}
+
+.testimonial-image { 
+    height: 300px; 
+    /* width:45%;  */
+    border-radius: 25%;
+    margin: 20px; 
+}
+
+
+/* .carousel-item { 
+    height: 400px; 
+   
+}  */
+
+ .carousel-item { 
+    padding: 7% 15%;
+    
+} 
