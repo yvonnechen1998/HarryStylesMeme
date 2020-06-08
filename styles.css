@@ -12,14 +12,24 @@ h1 {
     letter-spacing: .25em;
 }
 
+.col-md-3 { 
+padding-bottom: 20%;
+}
+
 .quoteButton { 
     text-align: center;
     padding-left: 40%; 
-    padding-top: 3%; 
+     
+    
+}
+
+.main-container { 
+    margin: 75px; 
 }
 
 #quoteDisplay { 
     /* background-color: #a6dcef; */
+    border-radius: 25px;
     background-color: #ddf3f5;
     padding: 7% 15%; 
     text-align: center;
@@ -27,4 +37,11 @@ h1 {
     font-family: 'Poppins', sans-serif;
     font-weight: bold;
     color: #f2aaaa; 
+
+    height:350px; 
 }
+
+.fine-line-art { 
+   
+}
+
