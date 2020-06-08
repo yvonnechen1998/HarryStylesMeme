@@ -1,0 +1,30 @@
+body { 
+    background-color: #a6dcef;
+
+}
+
+h1 { 
+    text-align: center;
+    padding-top: 7%; 
+    font-family: 'Poppins', sans-serif;
+    color: #e36387;
+    font-size: 4rem; 
+    letter-spacing: .25em;
+}
+
+.quoteButton { 
+    text-align: center;
+    padding-left: 40%; 
+    padding-top: 3%; 
+}
+
+#quoteDisplay { 
+    /* background-color: #a6dcef; */
+    background-color: #ddf3f5;
+    padding: 7% 15%; 
+    text-align: center;
+    font-size: 2.5rem; 
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    color: #f2aaaa; 
+}

@@ -5,7 +5,7 @@ var quotes = [
     'Chin Up. Smile. Walk Away.', 
     'We have a choice. to live or to exist',
     'Be a lover. Give love. Choose love', 
-    'Treat People With Kindness', 
+    'TREAT PEOPLE WITH KINDNESS', 
     'Please feel free to be whoever yoou want to be in this room ', 
     'I ask you to please choose love every single day.'
 
